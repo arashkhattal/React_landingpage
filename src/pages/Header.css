@@ -1,0 +1,16 @@
+.navicon {
+  height: 15px;
+  width: 15px;
+  margin: 15px;
+}
+.one {
+  padding-left: 15px;
+}
+.nav {
+  font-weight: bold;
+}
+@media only screen and (max-width: 600px) {
+  .navicon {
+    display: none;
+  }
+}

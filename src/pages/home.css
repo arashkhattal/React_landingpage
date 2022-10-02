@@ -1,0 +1,22 @@
+.bghome {
+  margin-top: 7;
+  height: 90vh;
+  width: 100%;
+}
+@media only screen and (max-width: 600px) {
+  .boxhome {
+    display: flex;
+  }
+  .boxitem {
+    flex-direction: column-reverse;
+  }
+  .homeimg {
+    height: 236px;
+    width: 349px;
+    margin: auto;
+    align-items: center;
+  }
+  .homebtn {
+    left: 140px;
+  }
+}

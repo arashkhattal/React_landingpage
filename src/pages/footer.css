@@ -1,0 +1,12 @@
+.bg {
+  background: #ee4248;
+  height: 64px;
+  width: 98vw;
+}
+.text {
+  padding-top: 24px;
+  color: #ffffff;
+}
+.text span {
+  font-weight: 400;
+}

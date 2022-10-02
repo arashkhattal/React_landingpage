@@ -1,0 +1,8 @@
+@media only screen and (max-width: 600px) {
+  .pb {
+    left: 140px;
+  }
+  .pimg1 {
+    margin-left: 160px;
+  }
+}
