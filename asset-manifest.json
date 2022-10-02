@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_landingpage/static/css/main.b409afec.css",
+    "main.js": "/React_landingpage/static/js/main.9aadf9f0.js",
+    "static/js/787.8ac47ec1.chunk.js": "/React_landingpage/static/js/787.8ac47ec1.chunk.js",
+    "static/media/sec-pafe-img.png": "/React_landingpage/static/media/sec-pafe-img.65f5491529a0074d2c41.png",
+    "static/media/landing-page-img.png": "/React_landingpage/static/media/landing-page-img.536a01aacf087a6bc30e.png",
+    "index.html": "/React_landingpage/index.html",
+    "main.b409afec.css.map": "/React_landingpage/static/css/main.b409afec.css.map",
+    "main.9aadf9f0.js.map": "/React_landingpage/static/js/main.9aadf9f0.js.map",
+    "787.8ac47ec1.chunk.js.map": "/React_landingpage/static/js/787.8ac47ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b409afec.css",
+    "static/js/main.9aadf9f0.js"
+  ]
+}
