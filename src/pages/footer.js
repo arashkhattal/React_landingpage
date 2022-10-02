@@ -10,6 +10,7 @@ function footer() {
       <Typography
         className="text"
         sx={{
+          fontSize: "14px",
           fontFamily: "Poppins",
           color: "#ffffff",
           textAlign: "center",
