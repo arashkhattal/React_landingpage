@@ -75,7 +75,7 @@ function secpage() {
                   experience and impressive track records,{" "}
                   <span sx={{ color: "#ee4248" }}>DSI</span> believes that
                   continuous improvements and innovations assure your business
-                  to run effectively and efficiently.
+                  to run effectively.
                 </Typography>
                 <Typography
                   className="secpagesubt2"
