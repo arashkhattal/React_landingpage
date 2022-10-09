@@ -90,7 +90,7 @@ function secpage() {
                     textAlign: { lg: "start", xs: "center" },
                   }}
                 >
-                  Dwidasa Samsara Indonesia (DSI) was firstly established in
+                  Dwidasa Indonesia (DSI) was firstly established in
                   2010 by the founders, who each of them has a common end
                   objective to innovate new creations by making the most of the
                   ever-growing information technology through{" "}
