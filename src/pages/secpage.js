@@ -71,7 +71,7 @@ function secpage() {
                     textAlign: { lg: "start", xs: "center" },
                   }}
                 >
-                  Managed by a team of professional experts with extensive
+                  Managed by team of professional experts with extensive
                   experience and impressive track records,{" "}
                   <span sx={{ color: "#ee4248" }}>DSI</span> believes that
                   continuous improvements and innovations assure your business
