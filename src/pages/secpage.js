@@ -72,7 +72,7 @@ function secpage() {
                   }}
                 >
                   Managed by team of professional experts with extensive
-                  experience and impressive track records,{" "}
+                  experience and impressive track records of works,{" "}
                   <span sx={{ color: "#ee4248" }}>DSI</span> believes that
                   continuous improvements and innovations assure your business
                   to run effectively.
