@@ -16,7 +16,7 @@ function footer() {
           textAlign: "center",
         }}
       >
-        Copyright © 2015 - <span>Dwidasa Samsara Indonesia</span>
+        Copyright © 20222 - <span>Dwidasa Samsara Indonesia</span>
       </Typography>
     </div>
   );
