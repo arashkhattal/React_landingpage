@@ -8,7 +8,7 @@ This is a React.js based landing page plug-n-play template, ideal for startups/c
 
 ### Features
 
-- 📱  Responsive design
+- 📱  Responsive design (Desktop & mobile)
 
 - 🎨 Integrate with [Material UI](https://https://mui.com/)
 
